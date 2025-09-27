@@ -1,2 +1,2 @@
 # test-new-repo
-my test repo
+my test repo is cool
